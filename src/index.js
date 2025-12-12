@@ -1,20 +1,12 @@
-import { divContent } from "./home";
+import { addElementstoDiv, addPhotoToDiv, addTextToDiv } from "./home";
 
-console.log(divContent);
+ addElementstoDiv();
+ addPhotoToDiv();
+ addTextToDiv();
 
  
  
 
  
 
-
-
-//  // src/index.js
-// import imgagep from "./imagep.jpeg"
-   
-// const image = document.createElement("img");
-// image.src = imaagep;
-   
-// document.body.appendChild(image);
-
-// add("h1")
+ 
