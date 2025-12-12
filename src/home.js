@@ -1,0 +1,1 @@
+export const divContent = document.querySelector("#content")
