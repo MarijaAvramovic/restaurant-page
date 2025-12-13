@@ -33,6 +33,7 @@ added logic to index.js for buttons tabing
 added css config and spent time on style
 
 deploy
+now more complex due to github pages look for index.html and mine is in dist
 
 
 time spent 2hr
