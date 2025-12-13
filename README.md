@@ -27,10 +27,10 @@ use npx webpack serve anytime config is changed
 http://localhost:8080/
 
 
-fill out menu and contact 
-add logic to index.js for buttons tabing
+filled out menu and contact 
+added logic to index.js for buttons tabing
 
-add css config 
+added css config and spent time on style
 
 deploy
 
