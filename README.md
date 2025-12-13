@@ -36,5 +36,5 @@ deploy
 now more complex due to github pages look for index.html and mine is in dist
 
 
-time spent 2hr
+time spent 3hr
   
